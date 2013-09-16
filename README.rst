@@ -14,4 +14,6 @@ Askbot is based on code of CNPROG, originally created by Mike Chen
 and Sailing Cai and some code written for OSQA. Askbot had officially launched
 in April 2010.
 
-please follow https://help.github.com/articles/fork-a-repo to understand about `fetch` and `push`
+please follow https://help.github.com/articles/fork-a-repo to understand about `fetch` and `push`.
+
+please fork and give pull requests..
